@@ -1,0 +1,9 @@
+.container {
+    padding: 5rem;
+    width: 100%;
+}
+
+#main {
+    height: 40rem;
+    width: 100%;
+}
